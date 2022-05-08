@@ -63,3 +63,23 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## the link to your hosted working Front-End Application
+ (https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1)
+
+Screenshot of my last build in CircleCi:
+
+![image](./screenshots/circleci.png)
+
+Screenshots of the configuration page of my AWS services:
+
+![image](./screenshots/rds.png)
+![image](./screenshots/s3.png)
+![image](./screenshots/elastic-beanstalk.png)
+
+Architecture daigram:
+
+![image](./screenshots/arc.png)
+
+
+

@@ -65,7 +65,7 @@ The e2e tests are using Protractor and Jasmine.
 [License](LICENSE.txt)
 
 ## the link to your hosted working Front-End Application
- (https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1)
+http://egfwd-fullstack-frontend.s3-website-us-east-1.amazonaws.com
 
 Screenshot of my last build in CircleCi:
 

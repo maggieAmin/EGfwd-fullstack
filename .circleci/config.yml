@@ -35,13 +35,9 @@ jobs:
           command: |
             npm run frontend:deploy
       - aws-elastic-beanstalk/setup
-      - aws-elastic-beanstalk/deploy:
-          context: aws-creds
-          environment-name: udagram-api-dev
-          filters:
-            branches:
-              only:
-                - main
+      - run:
+          command: |
+            npm run backend:deploy
 workflows:
   deploy_udagram_app:
     jobs:

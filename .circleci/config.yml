@@ -42,3 +42,6 @@ workflows:
   deploy_udagram_app:
     jobs:
       - install-node
+        filters:
+            branches:
+              only: /main/

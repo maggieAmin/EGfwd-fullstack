@@ -79,7 +79,7 @@ Screenshots of the configuration page of my AWS services:
 
 Architecture daigram:
 
-![image](./screenshots/arc.png)
+![image](./screenshots/Arc.png)
 
 
 
